@@ -1,0 +1,52 @@
+.agoted-products {
+    position: absolute;
+    background-color: rgba(221, 23, 23, 0.363);
+    width: 300px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.agoted-products h1 {
+    color: black;
+    background-color: red;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.card-container {
+    border: 1px solid black;
+    background-color: rgba(248, 248, 248, 0.911);
+    width: 300px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 30px 70px 0px;
+}
+.numberContador {
+    position: absolute;
+}
+.numberContador h1 {
+    background-color: rgb(74, 123, 228);
+    border-radius: 0px 0px 5px 0px;
+}
+
+.image-content {
+    width: 100%;
+    height: 82%;
+}
+
+.image-content img {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+
+.info-card {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;;
+}

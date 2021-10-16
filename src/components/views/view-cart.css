@@ -1,0 +1,36 @@
+.view-cart-content {
+    display: flex;
+}
+
+.tables-content {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tables-content table {
+    width: 100%;
+    text-align: center;
+}
+
+.tables-content table td {
+    text-align: center;
+}
+
+
+.total-price {
+    width: 50%;
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.total-price div {
+    display: flex;
+    flex-direction: column;
+}
+
+.total-price div p {
+    margin-top: 25px;
+}

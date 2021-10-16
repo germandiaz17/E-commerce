@@ -1,0 +1,9 @@
+.link-to-nav {
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+}
+
+.link-to-nav:hover {
+    color: rgb(206, 206, 206);
+}

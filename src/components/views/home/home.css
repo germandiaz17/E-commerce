@@ -1,0 +1,16 @@
+.title-welcome {
+    font-size: 4rem;
+    color: blue;
+}
+
+.title-products {
+    color: blue;
+    margin-top: 5rem;
+}
+
+.cards-cont {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
